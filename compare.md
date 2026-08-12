@@ -34,7 +34,7 @@ reference data types
 1. contain a multiple values or complex data
 2. stored in the heap
 3. objects are mutable by default
-4. compare by reference not value
+4. compare by memory reference not value
 
 let and var difference
 
